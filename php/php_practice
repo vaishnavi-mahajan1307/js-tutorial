@@ -1,0 +1,106 @@
+BASIC LEVEL (Start Here — Core Logic)
+
+Print “Hello World” in PHP.
+
+Find the sum of two numbers.
+
+Check if a number is even or odd.
+
+Find the largest of three numbers.
+
+Swap two numbers without using a third variable.
+
+Print the multiplication table of a given number.
+
+Calculate factorial of a number.
+
+Check if a number is prime.
+
+Find the sum of digits of a number.
+
+Reverse a string manually (no built-in function).
+
+Check if a string is a palindrome.
+
+Count vowels and consonants in a string.
+
+Find length of a string without using strlen().
+
+Find maximum and minimum numbers in an array.
+
+Calculate average of numbers in an array.
+
+Count even and odd numbers in an array.
+
+Find sum of all array elements.
+
+Remove duplicate values from an array.
+
+Sort an array in ascending order without using sort().
+
+Merge two arrays manually.
+
+🔹 INTERMEDIATE LEVEL (Apply Loops + Conditions + Arrays)
+
+Find second largest number in an array.
+
+Print Fibonacci series up to n terms.
+
+Find all factors of a given number.
+
+Find the GCD and LCM of two numbers.
+
+Reverse words in a sentence.
+
+Count occurrence of each element in an array.
+
+Find all unique elements from two arrays.
+
+Check if a number is an Armstrong number.
+
+Check if a number is a Perfect number.
+
+Remove white spaces from a string without using built-in functions.
+
+Find missing number in an array of consecutive integers.
+
+Convert temperature from Celsius to Fahrenheit and vice versa.
+
+Find the frequency of characters in a string.
+
+Print a half-pyramid pattern using *.
+
+Print a full pyramid pattern using numbers.
+
+Count total words in a string without using str_word_count().
+
+Calculate power of a number without using pow().
+
+Replace all occurrences of a word in a sentence.
+
+Find common elements between two arrays.
+
+Separate even and odd numbers from an array into two arrays.
+
+🔹 ADVANCED LEVEL (Real-World & Logical Thinking)
+
+Implement your own function for sorting (like bubble sort).
+
+Implement a function to check for palindrome numbers between 1–1000.
+
+Write a function that reverses an array without using array_reverse().
+
+Implement a simple calculator using switch-case.
+
+Simulate login validation with a hard-coded username & password.
+
+Read a text file and count total lines, words, and characters.
+
+Find all prime numbers between 1 and 100.
+
+Write a PHP script to check if an email is valid (using regex).
+
+Simulate a mini billing system — take item names, quantity, price → print total.
+
+Build a simple PHP function that converts Roman numerals to integers.
+
